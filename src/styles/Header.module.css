@@ -1,0 +1,12 @@
+.Header {
+  background-color: lightgray;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 20px;
+}
+
+.links {
+  display: flex;
+  gap: 3em;
+}

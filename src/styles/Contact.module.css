@@ -1,0 +1,8 @@
+.Contact {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.listClasses {
+  display: flex;
+}

@@ -1,0 +1,12 @@
+.CourseWork {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.classList {
+  display: flex;
+}
+
+h2, h3 {
+  text-align: center;
+}

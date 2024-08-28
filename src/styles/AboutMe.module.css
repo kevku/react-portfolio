@@ -1,0 +1,9 @@
+.AboutMe {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.myImage {
+  width: 200em;
+  height: auto;
+}
