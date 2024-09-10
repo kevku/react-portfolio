@@ -14,3 +14,12 @@
 h2, h3 {
   text-align: center;
 }
+
+@media (max-width: 934px) {
+  .CourseWork {
+    display: block;
+  }
+  .classList {
+    display: block;
+  }
+}

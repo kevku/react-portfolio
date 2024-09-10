@@ -11,3 +11,9 @@
   width: 200em;
   height: auto;
 }
+
+@media (max-width: 934px) {
+  .AboutMe {
+    display: block;
+  }
+}

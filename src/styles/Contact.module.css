@@ -10,3 +10,9 @@
 .listClasses {
   display: flex;
 }
+
+@media (max-width: 934px) {
+  .Contact {
+    display: block;
+  }
+}

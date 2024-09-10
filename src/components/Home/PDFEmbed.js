@@ -6,8 +6,8 @@ const PDFEmbed = ({ pdfPath }) => {
       <embed
         src={pdfPath}
         type="application/pdf"
-        width="600"
-        height="800"
+        width="100%"
+        height="100%"
         title="Embedded PDF"
       />
     </div>
