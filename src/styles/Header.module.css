@@ -1,9 +1,16 @@
 .Header {
-  background-color: lightgray;
   display: flex;
   justify-content: space-between;
   align-items: center;
   border-radius: 20px;
+}
+
+h1 {
+  margin-left: 1em;
+}
+
+a {
+  margin-right: 1em;
 }
 
 .links {

@@ -3,6 +3,10 @@
   justify-content: space-evenly;
 }
 
+.Contact > * {
+  margin: 1em;
+}
+
 .listClasses {
   display: flex;
 }

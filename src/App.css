@@ -1,9 +1,11 @@
 @import url(./styles/var.css);
 .App {
   /* text-align: center; */
+  background-color: var(--background-color);
+  color: var(--text-color);
 }
 
-p {
+p, li, a {
   font-size: var(--step-0);
 }
 

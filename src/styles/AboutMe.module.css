@@ -3,6 +3,10 @@
   justify-content: space-evenly;
 }
 
+.AboutMe > * {
+  margin: 1em;
+}
+
 .myImage {
   width: 200em;
   height: auto;

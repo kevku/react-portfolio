@@ -3,6 +3,10 @@
   justify-content: space-evenly;
 }
 
+.CourseWork > * {
+  margin: 1em;
+}
+
 .classList {
   display: flex;
 }
