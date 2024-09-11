@@ -1,7 +1,23 @@
-.AndroidApps {
+.AndroidApps > * {
+  margin: 1em;
 }
 
 
 .content {
   display: flex;
+  margin: 1em;
+}
+
+.content > * {
+  margin: 1em;
+}
+
+.content img {
+  border-radius: 10%;
+}
+
+@media (max-width: 1310px) {
+  .content {
+    display: block;
+  }
 }
