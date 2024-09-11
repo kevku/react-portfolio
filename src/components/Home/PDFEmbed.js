@@ -1,15 +1,18 @@
 import React from 'react';
+import styles from '../../styles/PDFEmbed.module.css';
 
 const PDFEmbed = ({ pdfPath }) => {
   return (
-    <div>
-      <embed
+    <div className={styles.PDFEmbed}>
+      <iframe
         src={pdfPath}
-        type="application/pdf"
-        width="100%"
-        height="100%"
+        className="pdf-embed"
         title="Embedded PDF"
-      />
+        onError={() => window.open(pdfPath, '_blank')}
+      ></iframe>
+      <a href={pdfPath} target="_blank" rel="noopener noreferrer">
+        Open PDF
+      </a>
     </div>
   );
 };
