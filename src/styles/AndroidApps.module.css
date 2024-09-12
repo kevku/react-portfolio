@@ -1,7 +1,10 @@
+.AndroidApps {
+  height: 10%;
+}
+
 .AndroidApps > * {
   margin: 1em;
 }
-
 
 .content {
   display: flex;
@@ -14,10 +17,20 @@
 
 .content img {
   border-radius: 10%;
+  width: 20%;
 }
 
-@media (max-width: 1310px) {
+@media (max-width: 672px) {
+
   .content {
     display: block;
+  }
+
+  .content > * {
+    margin: .5em;
+  }
+
+  .content img {
+    width: 100%;
   }
 }
