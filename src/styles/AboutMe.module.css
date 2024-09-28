@@ -7,6 +7,12 @@
   margin: 1em;
 }
 
+section {
+  background-color: var(--secondary-background-color);
+  border-radius: 10px;
+  padding: 0 20px 20px 20px;
+}
+
 .myImage {
   width: 200em;
   height: auto;

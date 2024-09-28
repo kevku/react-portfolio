@@ -2,6 +2,11 @@
   height: 10%;
 }
 
+.container {
+  background-color: var(--secondary-background-color);
+  border-radius: 10px;
+}
+
 .AndroidApps > * {
   margin: 1em;
 }
@@ -23,7 +28,8 @@
 @media (max-width: 672px) {
 
   .content {
-    display: block;
+    display: flex;
+    flex-direction: column-reverse;
   }
 
   .content > * {

@@ -9,11 +9,15 @@ h1 {
   margin-left: 1em;
 }
 
-a {
+.links > a {
   margin-right: 1em;
+  text-decoration: none;
+  background-color: var(--link-color);
+  padding: .5em .5em;
+  border-radius: 10px;
 }
 
 .links {
   display: flex;
-  gap: 3em;
+  gap: 2em;
 }
