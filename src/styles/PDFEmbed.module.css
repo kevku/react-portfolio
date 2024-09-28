@@ -10,3 +10,10 @@ iframe {
   width: 100%;
   border: none;
 }
+
+@media (max-width: 934px) {
+  .PDFEmbed {
+    width: 93%;
+
+  }
+}
