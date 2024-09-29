@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.2b217f63.css",
-    "main.js": "/react-portfolio/static/js/main.45e27786.js",
+    "main.css": "/react-portfolio/static/css/main.9b23dd8a.css",
+    "main.js": "/react-portfolio/static/js/main.635f4b71.js",
     "static/js/453.bb257cf5.chunk.js": "/react-portfolio/static/js/453.bb257cf5.chunk.js",
     "static/media/Parstagram_Account.gif": "/react-portfolio/static/media/Parstagram_Account.06f60029bb7c2b9c44db.gif",
     "static/media/Parstagram_Feed.gif": "/react-portfolio/static/media/Parstagram_Feed.9e20a32a0561718c57fd.gif",
@@ -11,12 +11,12 @@
     "static/media/Kevin.webp": "/react-portfolio/static/media/Kevin.3b9cd4fc7ad5856badb7.webp",
     "static/media/logo.svg": "/react-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/react-portfolio/index.html",
-    "main.2b217f63.css.map": "/react-portfolio/static/css/main.2b217f63.css.map",
-    "main.45e27786.js.map": "/react-portfolio/static/js/main.45e27786.js.map",
+    "main.9b23dd8a.css.map": "/react-portfolio/static/css/main.9b23dd8a.css.map",
+    "main.635f4b71.js.map": "/react-portfolio/static/js/main.635f4b71.js.map",
     "453.bb257cf5.chunk.js.map": "/react-portfolio/static/js/453.bb257cf5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2b217f63.css",
-    "static/js/main.45e27786.js"
+    "static/css/main.9b23dd8a.css",
+    "static/js/main.635f4b71.js"
   ]
 }
