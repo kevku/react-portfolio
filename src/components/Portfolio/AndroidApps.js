@@ -14,6 +14,8 @@ const AndroidApps = () => {
             <article>
               <h3>{item.appName}</h3>
               <p>{item.text}</p>
+              <br />
+              <a href={item.repoLink} target="_blank" rel="noopener noreferrer">Link to Repo</a>
             </article>
           </section>
         </div>

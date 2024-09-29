@@ -1,40 +1,25 @@
+.CybersecuritySlide > * {
+  margin: 1em;
+}
+
 .container {
   background-color: var(--secondary-background-color);
   border-radius: 10px;
   overflow: hidden;
 }
 
-.AndroidApps > * {
-  margin: 1em;
-}
-
 .content {
   display: flex;
-  justify-content: space-between;
-  gap: 10rem;
   margin: 1em;
-}
-
-.content h3 {
-  margin: 0;
 }
 
 .content > * {
   margin: 1em;
 }
 
-.content a {
-  text-decoration: none;
-  background-color: var(--link-color);
-  padding: .5em;
-  border-radius: 10px;
-}
-
-.content img {
-  border-radius: 10%;
-  width: 20%;
-  height: 500px;
-  object-fit: contain;
+.content > iframe {
+  width: 80%;
+  height: 624.828px;
 }
 
 @media (max-width: 672px) {
@@ -42,14 +27,13 @@
   .content {
     display: flex;
     flex-direction: column-reverse;
-    gap: 0;
   }
 
   .content > * {
     margin: .5em;
   }
 
-  .content img {
+  .content iframe {
     width: 100%;
   }
 }
