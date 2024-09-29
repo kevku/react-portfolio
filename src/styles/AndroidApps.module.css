@@ -1,10 +1,7 @@
-.AndroidApps {
-  height: 10%;
-}
-
 .container {
   background-color: var(--secondary-background-color);
   border-radius: 10px;
+  overflow: hidden;
 }
 
 .AndroidApps > * {
