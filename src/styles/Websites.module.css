@@ -1,0 +1,49 @@
+.Websites > * {
+  margin: 1em;
+}
+
+.container {
+  background-color: var(--secondary-background-color);
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.content {
+  display: flex;
+  margin: 1em;
+}
+
+.content > * {
+  margin: 1em;
+}
+
+.content a {
+  text-decoration: none;
+  background-color: var(--link-color);
+  padding: .5em;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+.content img {
+  border-radius: 50px;
+  width: 60%;
+  height: 500px;
+  object-fit: contain;
+}
+
+@media (max-width: 672px) {
+
+  .content {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+
+  .content > * {
+    margin: .5em;
+  }
+
+  .content img {
+    width: 100%;
+  }
+}
