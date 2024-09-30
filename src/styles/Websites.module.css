@@ -22,17 +22,17 @@
   background-color: var(--link-color);
   padding: .5em;
   border-radius: 10px;
-  margin: 10px;
+  margin: 10px 10px 10px 0;
 }
 
 .content img {
   border-radius: 50px;
-  width: 60%;
+  width: 50%;
   height: 500px;
   object-fit: contain;
 }
 
-@media (max-width: 672px) {
+@media (max-width: 1046px) {
 
   .content {
     display: flex;

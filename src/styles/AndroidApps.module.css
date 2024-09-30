@@ -37,7 +37,7 @@
   object-fit: contain;
 }
 
-@media (max-width: 672px) {
+@media (max-width: 1046px) {
 
   .content {
     display: flex;
