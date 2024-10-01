@@ -5,16 +5,26 @@
   border-radius: 20px;
 }
 
+.Header nav {
+  margin-top: 21.44px;
+  margin-right: 1em;
+}
+
 h1 {
   margin-left: 1em;
 }
 
-.links > a {
+.links a {
   margin-right: 1em;
   text-decoration: none;
   background-color: var(--link-color);
   padding: .5em .5em;
   border-radius: 10px;
+  transition: background-color 0.3s ease;
+}
+
+.links a:hover {
+  background-color: var(--link-hover-color);
 }
 
 .links {

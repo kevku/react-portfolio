@@ -28,6 +28,11 @@
   background-color: var(--link-color);
   padding: .5em;
   border-radius: 10px;
+  transition: background-color 0.3s ease;
+}
+
+.content a:hover {
+  background-color: var(--link-hover-color);
 }
 
 .content img {

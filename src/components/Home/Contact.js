@@ -13,6 +13,7 @@ function Contact() {
           <li>School Email: <a href="mailto:kkuang@ucsd.edu">kkuang@ucsd.edu</a></li>
           <li>Phone Number: <a href="tel:415-528-1984">(415)-528-1984</a></li>
           <li>LinkedIn: <a href="https://www.linkedin.com/in/kekuang/">linkedin.com/in/kekuang/</a></li>
+          <li>GitHub: <a href="https://github.com/kevku">github.com/kevku</a></li>
         </ul>
       </div>
     </div>

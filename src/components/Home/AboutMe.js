@@ -13,10 +13,10 @@ function AboutMe() {
         <h2>About Me</h2>
         <p>
           Hi, I'm Kevin. Ever since I was a kid, I've been fascinated by technology, 
-          which is why I pursued a major in Math-CS. Whether it’s tinkering with computers 
+          which is why I pursued a major in <strong>Math-CS</strong>. Whether it’s tinkering with computers 
           or developing software, I’m driven by a desire to create user-friendly applications 
-          that make a difference in people’s lives. Studying at the University of California, 
-          San Diego (UCSD) has been an incredible experience. It’s not just the rigorous coursework 
+          that make a difference in people’s lives. Studying at the <strong>University of California, 
+          San Diego (UCSD)</strong> has been an incredible experience. It’s not just the rigorous coursework 
           that’s been transformative, but also the hands-on projects and learning from some truly 
           inspiring professors. UCSD has challenged me in the best ways possible and helped me grow 
           both personally and professionally. 
