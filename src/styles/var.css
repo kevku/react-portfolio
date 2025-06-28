@@ -10,11 +10,11 @@
   --step-4: clamp(2.3328rem, 2.0827rem + 1.2504vw, 3.0518rem);
   --step-5: clamp(2.7994rem, 2.4462rem + 1.7658vw, 3.8147rem);
 
-  --background-color: #242424;
-  --secondary-background-color: #2c3e50;
-  --text-color: white;
-  --link-color: #e74c3c ;
-  --link-hover-color: #c0392b;
+  --background-color: #1a1a1a;
+  --secondary-background-color: #2f3640;
+  --text-color: #ecf0f1;
+  --link-color: #3498db;
+  --link-hover-color: #2980b9;
 }
 
 /* Box sizing rules */
