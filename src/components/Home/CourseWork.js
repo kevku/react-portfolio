@@ -1,7 +1,7 @@
 import React from 'react';
 import PDFEmbed from './PDFEmbed';
 import styles from '../../styles/CourseWork.module.css';
-import resume from '../../assets/Kevin Kuang - Resume.pdf';
+import resume from '../../assets/Kevin_Kuang_Resume.pdf';
 
 function CourseWork() {
   return(
